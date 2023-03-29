@@ -1,0 +1,19 @@
+.divButton {
+  width: 100px;
+}
+
+.btn {
+
+  padding: 10px;
+  background-color: #FA455A;
+  border: 0;
+  color: white;
+  font-weight: 900;
+  font-size: 15px;
+  border-radius: 10%;
+}
+
+.btn:hover {
+  box-shadow: 2px 2px 15px rgba(255, 255, 255, 0.738);
+  cursor: copy;
+}
