@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/crosshair-valorant/static/css/main.0daef1a3.css",
+    "main.js": "/crosshair-valorant/static/js/main.b3748f0f.js",
+    "static/media/Valorant Font.ttf": "/crosshair-valorant/static/media/Valorant Font.86ec8370af32018a2391.ttf",
+    "index.html": "/crosshair-valorant/index.html",
+    "main.0daef1a3.css.map": "/crosshair-valorant/static/css/main.0daef1a3.css.map",
+    "main.b3748f0f.js.map": "/crosshair-valorant/static/js/main.b3748f0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0daef1a3.css",
+    "static/js/main.b3748f0f.js"
+  ]
+}
