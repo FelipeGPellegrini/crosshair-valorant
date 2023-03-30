@@ -1,14 +1,22 @@
 {
   "files": {
     "main.css": "/crosshair-valorant/static/css/main.0daef1a3.css",
-    "main.js": "/crosshair-valorant/static/js/main.b3748f0f.js",
+    "main.js": "/crosshair-valorant/static/js/main.259b1959.js",
     "static/media/Valorant Font.ttf": "/crosshair-valorant/static/media/Valorant Font.86ec8370af32018a2391.ttf",
+    "static/media/s0m.jpg": "/crosshair-valorant/static/media/s0m.7933328e14c7cee18470.jpg",
+    "static/media/daveeyss-2023.jpg": "/crosshair-valorant/static/media/daveeyss-2023.f017c702b40fb1e39f3a.jpg",
+    "static/media/saadhak-2023.jpg": "/crosshair-valorant/static/media/saadhak-2023.09e3c7d61b3d8bba43c6.jpg",
+    "static/media/cauanzin-2023.jpg": "/crosshair-valorant/static/media/cauanzin-2023.455a1fb31ec089353b84.jpg",
+    "static/media/tuyz-2023.jpg": "/crosshair-valorant/static/media/tuyz-2023.be21715e5d05e35d4791.jpg",
+    "static/media/pancada-2023.jpg": "/crosshair-valorant/static/media/pancada-2023.bfe47868f77bf86e4654.jpg",
+    "static/media/cned-2023.jpg": "/crosshair-valorant/static/media/cned-2023.48100e493548015fa605.jpg",
+    "static/media/less-2023.jpg": "/crosshair-valorant/static/media/less-2023.6cc8d0aed6f9979a3cb6.jpg",
     "index.html": "/crosshair-valorant/index.html",
     "main.0daef1a3.css.map": "/crosshair-valorant/static/css/main.0daef1a3.css.map",
-    "main.b3748f0f.js.map": "/crosshair-valorant/static/js/main.b3748f0f.js.map"
+    "main.259b1959.js.map": "/crosshair-valorant/static/js/main.259b1959.js.map"
   },
   "entrypoints": [
     "static/css/main.0daef1a3.css",
-    "static/js/main.b3748f0f.js"
+    "static/js/main.259b1959.js"
   ]
 }
